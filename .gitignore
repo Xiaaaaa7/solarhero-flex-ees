@@ -1,0 +1,18 @@
+# Data (not tracked; see README)
+raw-data/
+processed-data/
+output-data/
+*.csv
+*.dat
+*.zip
+*.mat
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
